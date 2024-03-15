@@ -1,3 +1,7 @@
+**⚠️This repository is archived⚠️**
+
+TROLIE's new home is [github.com/trolie/spec/](https://github.com/trolie/spec/). This repo is being kept only as a public reference.
+
 # TROLIE
 
 Transmission Ratings and Operating Limits Information Exchange
